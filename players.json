@@ -1,0 +1,100 @@
+[
+  {
+    "squadNumber": 1,
+    "forename": "Dimi",
+    "surname": "Konstantopolous",
+    "position": "Goalkeeper"
+  },
+  {
+    "squadNumber": 23,
+    "forename": "Darren",
+    "surname": "Randolph",
+    "position": "Goalkeeper"
+  },
+  {
+    "squadNumber": 3,
+    "forename": "George",
+    "surname": "Friend",
+    "position": "Defender"
+  },
+  {
+    "squadNumber": 4,
+    "forename": "Daniel",
+    "surname": "Ayala",
+    "position": "Defender"
+  },
+  {
+    "squadNumber": 5,
+    "forename": "Ryan",
+    "surname": "Shotton",
+    "position": "Defender"
+  },
+  {
+    "squadNumber": 6,
+    "forename": "Danny",
+    "surname": "Batth",
+    "position": "Defender"
+  },
+  {
+    "squadNumber": 8,
+    "forename": "Adam",
+    "surname": "Clayton",
+    "position": "Midfield"
+  },
+  {
+    "squadNumber": 16,
+    "forename": "Jonny",
+    "surname": "Howson",
+    "position": "Midfield"
+  },
+  {
+    "squadNumber": 19,
+    "forename": "Stewart",
+    "surname": "Downing",
+    "position": "Midfield"
+  },
+  {
+    "squadNumber": 22,
+    "forename": "George",
+    "surname": "Saville",
+    "position": "Midfield"
+  },
+  {
+    "squadNumber": 26,
+    "forename": "Lewis",
+    "surname": "Wing",
+    "position": "Midfield"
+  },
+  {
+    "squadNumber": 37,
+    "forename": "Mo",
+    "surname": "Besic",
+    "position": "Midfield"
+  },
+  {
+    "squadNumber": 9,
+    "forename": "Britt",
+    "surname": "Assombalonga",
+    "position": "Striker"
+  },
+  {
+    "squadNumber": 10,
+    "forename": "Martin",
+    "surname": "Braithewaite",
+    "position": "Striker"
+  },
+  {
+    "squadNumber": 11,
+    "forename": "Jordan",
+    "surname": "Hugill",
+    "position": "Striker"
+  },
+  {
+    "squadNumber": 39,
+    "forename": "Rudy",
+    "surname": "Gestede",
+    "position": "Striker"
+  }
+]
+  
+ 
